@@ -1,4 +1,4 @@
-# 353 Project: Go-Pro Data Analysis
+# Go-Pro Data Analysis
 
 ## Description
 This project aims to analyze gyroscope data collected from Go-Pro cameras to classify various tricks performed in sports activities. The key features include data preprocessing, model training using machine learning algorithms, and visualization of gyroscope data.
